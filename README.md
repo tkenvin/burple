@@ -1,2 +1,2 @@
 # burple
- Golang utility for creating XkcdColour classes in various languages.
+ Utility for creating XkcdColour classes in various languages.
